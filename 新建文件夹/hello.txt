@@ -13,4 +13,4 @@ hello WJF! hello! git!
 hello WJF! hello! git!
 hello WJF! hello! git!
 hello WJF! hello! git!
-hello WJF! hello! git!
+hello WJF! hello! git! hot-fix test
